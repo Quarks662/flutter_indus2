@@ -179,10 +179,10 @@
       "name": "flutter_indus",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.15"
+      "languageVersion": "2.14"
     }
   ],
-  "generated": "2021-11-07T11:30:58.374427Z",
+  "generated": "2021-11-07T11:51:56.762721Z",
   "generator": "pub",
   "generatorVersion": "2.15.0-268.0.dev"
 }
